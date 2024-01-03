@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810909284415",
+    "firebase_url": "https://recipy-2021-default-rtdb.firebaseio.com",
+    "project_id": "recipy-2021",
+    "storage_bucket": "recipy-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810909284415:android:fef0f0650d703835e2e08a",
+        "android_client_info": {
+          "package_name": "com.example.recipy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810909284415-osk5rha90dju9gdljk9fse6sdvo8atue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9EDxm-PKBAMEym3u1t6GfzatVjfA0Z_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810909284415-osk5rha90dju9gdljk9fse6sdvo8atue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
